@@ -2730,7 +2730,7 @@ header.major h3 {
 			button.primary:active,
 			.button.primary:hover,
 			.button.primary:active {
-				background-color: #111212;
+				background-color: #53e3fb;
 				color: #242943 !important;
 			}
 
@@ -2964,7 +2964,7 @@ header.major h3 {
 			margin: 0 0 0.5em 0;
 		}
 
-/* Spotlights */
+/* Spotlights- Page 2 item */
 
 	.spotlights {
 		border-top: 0 !important;
@@ -2983,7 +2983,7 @@ header.major h3 {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #000000;
 		}
 
 			.spotlights > section > .image {
@@ -3045,7 +3045,7 @@ header.major h3 {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #1E3547;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3626,7 +3626,7 @@ h1, h2 {
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #1E3547;
 		}
 
 		#banner.style3:after {
